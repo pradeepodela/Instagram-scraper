@@ -17,7 +17,7 @@ L = instaloader.Instaloader()
 
 # Login or load session
 
-L.login('odela._pradeep', 'new password')        # (login)
+L.login('YOUR INSTAGRAM ID', 'YOUR PASSWORD')        # (login)
 #L.interactive_login(USER)      # (ask password on terminal)
 # L.load_session_from_file('dslr.lover.nepal') # (load session created w/
 
